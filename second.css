@@ -1,2 +1,55 @@
 /* Nature Trails */
-/* Triadic. Cyan, Green, Blue */
+/* Analogous. Cyan, Green, Blue */
+/* #00FA9D */
+/* #01FAF0 */
+/* #00B3FA */
+/* The green repesents nature, which fits with the theme. The blue represents peace and tranquility, another aspect of beautiful nature hikes. */
+html{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='2000' height='1000' preserveAspectRatio='none' viewBox='0 0 2000 1000'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1073%26quot%3b)' fill='none'%3e%3crect width='2000' height='1000' x='0' y='0' fill='rgba(1%2c 250%2c 240%2c 1)'%3e%3c/rect%3e%3cpath d='M841.091%2c768.545C899.766%2c772.453%2c954.731%2c734.959%2c981.453%2c682.576C1006.134%2c634.193%2c991.359%2c577.418%2c961.851%2c531.817C935.126%2c490.517%2c890.28%2c466.262%2c841.091%2c465.664C790.756%2c465.052%2c739.603%2c484.825%2c715.134%2c528.817C691.208%2c571.833%2c706.87%2c622.238%2c729.764%2c665.812C754.936%2c713.722%2c787.091%2c764.948%2c841.091%2c768.545' fill='rgba(0%2c 250%2c 157%2c 1)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1857.7103249224995 968.7217415732147L2016.0660935516028 865.8843029988469 1913.228654977235 707.5285343697436 1754.8728863481317 810.3659729441114z' fill='rgba(0%2c 250%2c 157%2c 1)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M2025.471%2c592.524C2094.637%2c592.969%2c2154.736%2c548.73%2c2188.754%2c488.507C2222.184%2c429.324%2c2223.676%2c358.245%2c2191.681%2c298.274C2157.613%2c234.415%2c2097.831%2c180.827%2c2025.471%2c182.447C1955.132%2c184.022%2c1904.387%2c243.151%2c1871.668%2c305.437C1841.582%2c362.712%2c1835.238%2c429.399%2c1865.79%2c486.427C1898.135%2c546.802%2c1956.979%2c592.083%2c2025.471%2c592.524' fill='rgba(0%2c 250%2c 157%2c 1)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1360.5134678560353 585.1340568226611L1333.952755286386 434.5007705103184 1183.3194689740433 461.0614830799675 1209.8801815436925 611.6947693923103z' fill='rgba(0%2c 250%2c 157%2c 1)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1133.05146470229 845.7959033553285L1339.7888900034793 901.1910295100718 1395.1840161582224 694.4536042088827 1188.4465908570335 639.0584780541394z' fill='rgba(0%2c 250%2c 157%2c 1)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M731.2660027767117 879.2662227572373L689.3286558724582 641.4277096961433 493.42748971561775 921.2035696614909z' fill='rgba(0%2c 250%2c 157%2c 1)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1648.746%2c728.094C1674.905%2c727.394%2c1697.028%2c710.885%2c1710.232%2c688.293C1723.574%2c665.464%2c1727.095%2c638.044%2c1715.169%2c614.444C1701.981%2c588.347%2c1677.961%2c567.835%2c1648.746%2c566.626C1617.555%2c565.335%2c1586.88%2c581.043%2c1572.064%2c608.521C1557.866%2c634.852%2c1565.133%2c666.562%2c1581.282%2c691.744C1596.062%2c714.791%2c1621.377%2c728.827%2c1648.746%2c728.094' fill='rgba(0%2c 250%2c 157%2c 1)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M231.415%2c316.487C305.575%2c320.299%2c377.195%2c286.652%2c417.791%2c224.473C462.616%2c155.816%2c480.714%2c67.608%2c440.588%2c-3.897C399.765%2c-76.643%2c314.764%2c-111.041%2c231.415%2c-107.648C153.776%2c-104.487%2c84.309%2c-57.606%2c49.8%2c12.014C18.613%2c74.932%2c39.537%2c146.571%2c75.511%2c206.88C110.39%2c265.355%2c163.418%2c312.992%2c231.415%2c316.487' fill='rgba(0%2c 250%2c 157%2c 1)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1976.187%2c902.843C2028.805%2c906.804%2c2085.272%2c892.226%2c2113.072%2c847.376C2142.087%2c800.567%2c2133.387%2c741.178%2c2106.018%2c693.388C2078.463%2c645.273%2c2031.621%2c607.147%2c1976.187%2c608.357C1922.398%2c609.531%2c1878.975%2c650.287%2c1855.813%2c698.848C1835.639%2c741.144%2c1847.066%2c788.786%2c1870.881%2c829.144C1894.218%2c868.693%2c1930.396%2c899.396%2c1976.187%2c902.843' fill='rgba(0%2c 250%2c 157%2c 1)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1475.968760152153 1054.0359944941652L1407.7338697306943 855.8674834951473 1277.8002491531352 1122.2708849156238z' fill='rgba(0%2c 250%2c 157%2c 1)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1171.8544137212862 407.5749159462203L982.9670054604362 616.9540069464458 1223.1522860524788 672.4051482117166z' fill='rgba(0%2c 250%2c 157%2c 1)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M822.1623755937178 235.1256993784971L577.8669654337768 213.7526204380864 556.4938864933662 458.04803059802737 800.7892966533071 479.42110953843803z' fill='rgba(0%2c 250%2c 157%2c 1)' class='triangle-float3'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1073'%3e%3crect width='2000' height='1000' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+}
+*{
+    font-family: cursive;
+    color: #00B3FA;
+    margin: 0;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: flex-end;
+}
+footer{
+    position: absolute;
+    background-color: #00FA9D;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 30px;
+}
+header{
+    position: absolute;
+    background-color: #00FA9D;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+}
+a:hover{
+    background-color: #066945;
+}
+a{
+    background-color:#00FA9D;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+nav{
+    position: absolute;
+    top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #00FA9D;
+}
