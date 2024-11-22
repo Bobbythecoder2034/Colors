@@ -102,19 +102,23 @@ button:hover{
 }
 .image1{
     position: absolute;
-    right: 40%;
-    height: 100px;
-    width: 100px;
+    right: 0%;
+    bottom: 30px;
+    height: 200px;
+    width: 200px;
 }
 .image2{
     position: absolute;
-    right: 40%;
-    height: 100px;
-    width: 100px;
+    left: 0px;
+    bottom:30px;
+    height: 200px;
+    width: 200px;
 }
 .image3{
     position: absolute;
-    right: 40%;
-    height: 100px;
-    width: 100px;
+    right: 35%;
+    top: 25%;
+    height: 300px;
+    width: 600px;
+    
 }

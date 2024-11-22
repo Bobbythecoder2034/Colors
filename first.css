@@ -119,3 +119,21 @@ button{
 button:hover{
     background-color: #867734;
 }
+.image1{
+    position: absolute;
+    right: 40%;
+    height: 100px;
+    width: 100px;
+}
+.image2{
+    position: absolute;
+    right: 40%;
+    height: 100px;
+    width: 100px;
+}
+.image3{
+    position: absolute;
+    right: 40%;
+    height: 100px;
+    width: 100px;
+}
