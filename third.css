@@ -17,7 +17,7 @@ main{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-content: center;
     align-items: flex-end;
     position: absolute;
@@ -42,11 +42,32 @@ header{
     align-items: center;
     justify-content: space-evenly;
 }
-.content{
+.content1{
     border-radius: 8%;
     background-color: #010c5c;
     padding: .5rem;
     margin: .5rem;
+    flex-grow: 1;
+    flex-basis: 100%;
+    height: 10rem;
+
+}
+.content2{
+    border-radius: 8%;
+    background-color: #010c5c;
+    padding: .5rem;
+    margin: .5rem;
+    flex-basis: 25%;
+    height: 33rem;
+}
+.content3{
+    border-radius: 8%;
+    background-color: #010c5c;
+    padding: .5rem;
+    margin: .5rem;
+    flex-basis: 25%;
+    height: 33rem;
+    
 }
 a:hover{
     background-color: #020731;
@@ -55,5 +76,13 @@ a{
     background-color:#010c5c;
     text-decoration: none;
     font-weight: bold;
-
+    height: 20px;
+}
+.boxes{
+    display: flex;
+    justify-content: center;
+    align-items: space-between;
+}
+section>p{
+    flex-basis: 100%;
 }

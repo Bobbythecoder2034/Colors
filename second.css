@@ -16,7 +16,7 @@ main{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-content: center;
     align-items: flex-end;
 }
@@ -43,7 +43,7 @@ a{
     background-color:#00FA9D;
     text-decoration: none;
     font-weight: bold;
-
+    height: 20px;
 }
 nav{
     position: absolute;
@@ -53,3 +53,19 @@ nav{
     justify-content: space-evenly;
     background-color: #00FA9D;
 }
+.content{
+    border-radius: 8%;
+    background-color: #00FA9D;
+    padding: .5rem;
+    margin: .5rem;
+    height: 40rem;
+    width: 20rem;
+    position: relative;
+    top: 6rem;
+}
+.shorter{
+    top:6rem;
+    height: 20rem;
+    width: 40rem;
+}
+
