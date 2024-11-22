@@ -63,7 +63,7 @@ header{
 .content3{
     border-radius: 8%;
     background-color: #010c5c;
-    padding: .5rem;
+    padding: .7rem;
     margin: .5rem;
     flex-basis: 25%;
     height: 33rem;
@@ -85,4 +85,18 @@ a{
 }
 section>p{
     flex-basis: 100%;
+}
+.button1{
+    position: absolute;
+    right: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+button{
+    background-color: #010c5c;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: #020731;
 }

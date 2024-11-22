@@ -72,6 +72,7 @@ nav{
     left: 0;
     top: 3rem;
     width: 300px;
+    height: 720px
 }
 .content2{
     border-radius: 8%;
@@ -95,4 +96,26 @@ nav{
     position: absolute;
     top: 29.5rem;
     left: 20rem;
+}
+.button1{
+    position: absolute;
+    bottom: 10rem;
+    right: 35%;
+}
+.button2{
+    position: absolute;
+    bottom: 2rem;
+    right: 40%;
+}
+.button3{
+    position: absolute;
+    right: 40%;
+    bottom: 5rem;
+}
+button{
+    color: #fa67e7;
+    background-color: #FADE66;
+}
+button:hover{
+    background-color: #867734;
 }

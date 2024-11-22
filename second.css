@@ -68,4 +68,22 @@ nav{
     height: 20rem;
     width: 40rem;
 }
-
+.button1{
+    position: absolute;
+    right: 40%;
+}
+.button2{
+    position: absolute;
+    right: 40%;
+}
+.button3{
+    position: absolute;
+    right: 30%;
+}
+button{
+    color: #34ff82;
+    background-color: #00B3FA;
+}
+button:hover{
+    background-color: #005a7e;
+}
